@@ -1,6 +1,7 @@
 # computational-thinking
 
 **- English:**
+
 Words from a professor:
 
 The subject is oriented so that all those students of basic or applied sciences as is the case of engineering, to obtain tools that allow them to pose problems that are going to be solved using computational tools.
@@ -8,6 +9,7 @@ Although we are going to base all the work on the Python language, I want to emp
 The subject has written material and audiovisual material that you will find on campus, which we suggest to review methodically and thoroughly. Everything that is the content of the subject is in that material and that is what we will use to evaluate them in the different instances that are presented
 
 **- Spanish:**
+
 Palabras de un profesor:
 
 La materia está orientada para que todos aquellos estudiantes de ciencias básicas o aplicadas como es el caso de la ingeniería, para que obtengan herramientan que les permita plantear problemas que van a ser resueltos mediante herramientas computacionales.
